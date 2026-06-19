@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(npm run *)",
+      "Skill(artifact-design)",
+      "Skill(artifact-design:*)"
+    ]
+  }
+}
